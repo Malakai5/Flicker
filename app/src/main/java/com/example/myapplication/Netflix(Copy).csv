@@ -1,0 +1,956 @@
+﻿titleName,tvRating,genre,titleId,yearMade,score
+White Chicks,PG-13,Comedy,1,2004,82
+Lucky Number Slevin,R,Comedy,2,2006,0
+Grey's Anatomy,TV-14,Comedy,3,2016,98
+Prison Break,TV-14,Comedy,4,2008,98
+How I Met Your Mother,TV-PG,Comedy,5,2014,94
+Supernatural,TV-14,Drama,6,2016,95
+Breaking Bad,TV-MA,Drama,7,2013,97
+The Vampire Diaries,TV-14,Drama,8,2017,91
+The Walking Dead,TV-MA,Drama,9,2015,98
+Pretty Little Liars,TV-14,Drama,10,2016,96
+Once Upon a Time,TV-PG,Drama,11,2016,98
+Sherlock,TV-14,Drama,12,2016,95
+Death Note,TV-14,Drama,13,2006,77
+Naruto,TV-PG,Drama,14,2008,88
+The Hunter,R,Drama,15,2011,0
+Lottie Dottie Chicken,TV-Y,Drama,16,2009,0
+Arrow,TV-14,Drama,17,2015,96
+Black Mirror,TV-MA,Drama,18,2016,80
+The Originals,TV-14,Drama,19,2016,74
+The 100,NR,Drama,20,2016,97
+Masha and the Bear,TV-Y,Drama,21,2013,81
+"Ã“ Pai, Ã“ - Look at This",TV-MA,Drama,22,2007,0
+Nymphomaniac: Volume 1,NR,Drama,23,2013,0
+Hunter X Hunter (2011),NR,Drama,24,2013,57
+Marvel's Luke Cage,TV-MA,Drama,25,2016,95
+Marvel's Iron Fist,TV-MA,Drama,26,2017,98
+Narcos,TV-MA,Drama,27,2016,94
+The Flash,TV-PG,Drama,28,2016,98
+The Seven Deadly Sins,TV-14,Drama,29,2016,0
+Scream,TV-14,Drama,30,2016,0
+The Do-Over,TV-MA,Drama,31,2016,84
+OperaÃ§Ãµes Especiais,TV-MA,Drama,32,2015,0
+3%,TV-MA,Drama,33,2016,0
+Trollhunters,TV-Y7-FV,Drama,34,2016,83
+Fearless,TV-14,Drama,35,2016,0
+Hyena Road,R,Drama,36,2015,0
+Santa Clarita Diet,TV-MA,Drama,37,2017,82
+"Sex, Love and Therapy",NR,Drama,38,2014,0
+White Girl,UR,Drama,39,2016,0
+Girlboss,TV-MA,Drama,40,2017,94
+City of God: 10 Years Later,TV-MA,Drama,41,2013,0
+13 Reasons Why,TV-MA,Drama,42,2017,99
+Sand Castle,TV-MA,Drama,43,2017,89
+Salvador Martinha - Tip of the Tongue,TV-MA,Drama,44,2016,0
+Sandy Wexler,TV-14,Drama,45,2017,92
+O Amor no DivÃ£,TV-MA,Drama,46,2016,0
+Stronger Than the World,NR,Drama,47,2016,0
+Back and Forth,NR,Drama,48,2016,0
+Happily Married,TV-14,Drama,49,2015,0
+Pandora,TV-MA,Drama,50,2016,0
+Lucky Number Slevin,R,Drama,51,2006,0
+The Office (U.S.),TV-14,Drama,52,2012,97
+Grey's Anatomy,TV-14,Drama,53,2016,98
+Prison Break,TV-14,Drama,54,2008,98
+90210,TV-14,Drama,55,2013,62
+Gossip Girl,TV-14,Drama,56,2012,96
+How I Met Your Mother,TV-PG,Drama,57,2014,94
+Supernatural,TV-14,Drama,58,2016,95
+Breaking Bad,TV-MA,Drama,59,2013,97
+Parks and Recreation,TV-14,Drama,60,2015,94
+Glee,TV-PG,Drama,61,2015,92
+The Vampire Diaries,TV-14,Drama,62,2017,91
+Family Guy,TV-MA,Drama,63,2015,98
+Criminal Minds,TV-14,Drama,64,2016,98
+Friends,TV-14,Drama,65,2003,98
+The Secret Life of the American Teenager,TV-14,Drama,66,2013,81
+One Tree Hill,TV-14,Drama,67,2011,90
+The Walking Dead,TV-MA,Drama,68,2015,98
+Pretty Little Liars,TV-14,Drama,69,2016,96
+Shameless (U.S.),TV-MA,Drama,70,2016,97
+New Girl,TV-14,Drama,71,2016,91
+American Horror Story,TV-MA,Drama,72,2016,90
+Orange Is the New Black,TV-MA,Drama,73,2016,98
+Inside Russia's Toughest Prison,TV-14,Drama,74,2011,0
+Black Mirror,TV-MA,Drama,75,2016,80
+Bates Motel,TV-14,Drama,76,2016,83
+The 100,NR,Drama,77,2016,97
+Marvel's Iron Fist,TV-MA,Drama,78,2017,98
+Grace and Frankie,TV-MA,Drama,79,2017,90
+How to Get Away with Murder,TV-14,Drama,80,2016,95
+The Get Down,TV-MA,Drama,81,2017,80
+Love,TV-MA,Drama,82,2017,0
+The Flash,TV-PG,Drama,83,2016,98
+The OA,TV-MA,Drama,84,2016,0
+Stranger Things,TV-14,Drama,85,2016,90
+Ingobernable,TV-MA,Drama,86,2017,96
+Zootopia,PG,Drama,87,2016,97
+Meet the Blacks,R,Drama,88,2016,79
+Finding Dory,PG,Drama,89,2016,98
+Santa Clarita Diet,TV-MA,Drama,90,2017,82
+Sausage Party,R,Drama,91,2016,91
+Pete's Dragon,PG,Drama,92,2016,93
+Kevin Hart: What Now?,R,Drama,93,2016,97
+Girlboss,TV-MA,Drama,94,2017,94
+The Discovery,TV-MA,Drama,95,2017,0
+Sand Castle,TV-MA,Drama,96,2017,89
+Sandy Wexler,TV-14,Drama,97,2017,92
+Chewing Gum,TV-MA,Drama,98,2017,93
+Cheer Squad,TV-PG,Drama,99,2016,61
+Only for One Night,TV-MA,Drama,100,2016,78
+The Life Aquatic with Steve Zissou,R,Drama,101,2004,0
+Lucky Number Slevin,R,Drama,102,2006,0
+The L Word,TV-MA,Drama,103,2009,0
+The Office (U.S.),TV-14,Drama,104,2012,97
+30 Rock,TV-14,Drama,105,2012,66
+Mad Men,TV-14,Drama,106,2014,75
+It's Always Sunny in Philadelphia,TV-MA,Drama,107,2016,91
+Californication,TV-MA,Drama,108,2014,63
+Parks and Recreation,TV-14,Drama,109,2015,94
+Friends,TV-14,Drama,110,2003,98
+Shameless (U.S.),TV-MA,Drama,111,2016,97
+Portlandia,TV-14,Drama,112,2016,62
+New Girl,TV-14,Drama,113,2016,91
+Don't Trust the B---- in Apartment 23,TV-14,Drama,114,2012,0
+Friends with Benefits,TV-14,Drama,115,2011,0
+The Client List,TV-14,Drama,116,2013,92
+Halt and Catch Fire,TV-14,Drama,117,2016,0
+5 to 7,R,Drama,118,2014,0
+Marvel's Iron Fist,TV-MA,Drama,119,2017,98
+Chef's Table,TV-MA,Drama,120,2017,0
+Documentary Now!,TV-14,Drama,121,2016,0
+Grace and Frankie,TV-MA,Drama,122,2017,90
+Better Call Saul,TV-MA,Drama,123,2016,95
+The Get Down,TV-MA,Drama,124,2017,80
+Schitt's Creek,TV-14,Drama,125,2016,74
+Lovesick,TV-MA,Drama,126,2016,0
+Flaked,TV-MA,Drama,127,2016,0
+Master of None,TV-MA,Drama,128,2015,0
+Chelsea,TV-MA,Drama,129,2017,0
+Abstract: The Art of Design,TV-14,Drama,130,2017,0
+Cooper Barrett's Guide to Surviving Life,TV-14,Drama,131,2016,0
+The Great British Baking Show,TV-PG,Drama,132,2016,94
+Life in Pieces,TV-14,Drama,133,2015,68
+Crazy Ex-Girlfriend,TV-14,Drama,134,2017,0
+Easy,TV-MA,Drama,135,2016,0
+Santa Clarita Diet,TV-MA,Drama,136,2017,82
+No Tomorrow,TV-14,Drama,137,2016,0
+Minimalism: A Documentary About the Important Things,TV-PG,Drama,138,2016,0
+Girlboss,TV-MA,Drama,139,2017,94
+Hot Girls Wanted: Turned On,TV-MA,Drama,140,2017,0
+The Discovery,TV-MA,Drama,141,2017,0
+13 Reasons Why,TV-MA,Drama,142,2017,99
+Sandy Wexler,TV-14,Drama,143,2017,92
+Chewing Gum,TV-MA,Drama,144,2017,93
+Win It All,TV-MA,Drama,145,2017,0
+MerlÃ­,TV-PG,Drama,146,2015,0
+Amy Schumer: The Leather Special,TV-MA,Drama,147,2017,0
+Louis C.K. 2017,TV-MA,Drama,148,2017,71
+Dave Chappelle,TV-MA,Drama,149,2017,94
+Almost Adults,NR,Drama,150,2016,0
+The Brothers,R,Drama,151,2001,0
+Skins,TV-MA,Drama,152,2013,0
+The Cleveland Show,TV-14,Drama,153,2012,88
+Absolutely Fabulous,TV-14,Drama,154,2012,59
+Don't Trust the B---- in Apartment 23,TV-14,Drama,155,2012,0
+Raising Hope,TV-14,Drama,156,2013,73
+Come Fly With Me,TV-14,Drama,157,2010,0
+Orange Is the New Black,TV-MA,Drama,158,2016,98
+Brickleberry,TV-MA,Drama,159,2014,63
+Bates Motel,TV-14,Drama,160,2016,83
+BoJack Horseman,TV-MA,Drama,161,2016,0
+Being Mary Jane: The Series,TV-14,Drama,162,2016,0
+Documentary Now!,TV-14,Drama,163,2016,0
+Grace and Frankie,TV-MA,Drama,164,2017,90
+Unbreakable Kimmy Schmidt,TV-14,Drama,165,2016,0
+The Get Down,TV-MA,Drama,166,2017,80
+Love,TV-MA,Drama,167,2017,0
+Bordertown,TV-14,Drama,168,2016,86
+Jane The Virgin,TV-14,Drama,169,2016,91
+Schitt's Creek,TV-14,Drama,170,2016,74
+Dope,R,Drama,171,2015,79
+Lovesick,TV-MA,Drama,172,2016,0
+The Carmichael Show,TV-14,Drama,173,2016,69
+Cooper Barrett's Guide to Surviving Life,TV-14,Drama,174,2016,0
+The Great British Baking Show,TV-PG,Drama,175,2016,94
+November Rule,TV-14,Drama,176,2015,0
+Life in Pieces,TV-14,Drama,177,2015,68
+Crazy Ex-Girlfriend,TV-14,Drama,178,2017,0
+Easy,TV-MA,Drama,179,2016,0
+Haters Back Off,TV-14,Drama,180,2016,58
+Kubo and the Two Strings,PG,Drama,181,2016,96
+Skins,TV-MA,Drama,182,2017,0
+A Weekend with the Family,TV-MA,Drama,183,2016,0
+Crazyhead,TV-MA,Drama,184,2016,0
+Queen of Katwe,PG,Drama,185,2016,0
+Little Boxes,TV-14,Drama,186,2016,61
+Deidra & Laney Rob a Train,TV-14,Drama,187,2017,0
+Girlboss,TV-MA,Drama,188,2017,94
+Hot Girls Wanted: Turned On,TV-MA,Drama,189,2017,0
+13 Reasons Why,TV-MA,Drama,190,2017,99
+Hurricane Bianca,TV-MA,Drama,191,2016,0
+Honeytrap,NR,Drama,192,2014,0
+Greenleaf,TV-14,Drama,193,2016,62
+Lazy Eye,TV-MA,Drama,194,2016,0
+Like Cotton Twines,NR,Drama,195,2016,0
+The Wedding Party,TV-14,Drama,196,2016,0
+Dave Chappelle,TV-MA,Drama,197,2017,94
+Only for One Night,TV-MA,Drama,198,2016,78
+Boy Bye,TV-MA,Drama,199,2016,0
+Almost Adults,NR,Drama,200,2016,0
+Nancy Drew,PG,Drama,201,2007,0
+30 Rock,TV-14,Drama,202,2012,66
+Nurse Jackie,TV-MA,Drama,203,2015,82
+Parks and Recreation,TV-14,Drama,204,2015,94
+Drop Dead Diva,TV-PG,Drama,205,2014,0
+Gilmore Girls,TV-14,Drama,206,2006,91
+Parenthood,TV-14,Drama,207,2014,79
+Life Unexpected,TV-PG,Drama,208,2010,55
+Portlandia,TV-14,Drama,209,2016,62
+New Girl,TV-14,Drama,210,2016,91
+Don't Trust the B---- in Apartment 23,TV-14,Drama,211,2012,0
+Raising Hope,TV-14,Drama,212,2013,73
+Being Human (U.S.),TV-14,Drama,213,2014,58
+Friends with Benefits,TV-14,Drama,214,2011,0
+The Carrie Diaries,TV-14,Drama,215,2013,0
+Baby Daddy,TV-14,Drama,216,2016,80
+Halt and Catch Fire,TV-14,Drama,217,2016,0
+The Angriest Man in Brooklyn,R,Drama,218,2014,0
+5 to 7,R,Drama,219,2014,0
+Chef's Table,TV-MA,Drama,220,2017,0
+Grace and Frankie,TV-MA,Drama,221,2017,90
+Unbreakable Kimmy Schmidt,TV-14,Drama,222,2016,0
+The Get Down,TV-MA,Drama,223,2017,80
+Sense8,TV-MA,Drama,224,2017,81
+Love,TV-MA,Drama,225,2017,0
+Bordertown,TV-14,Drama,226,2016,86
+Girlfriends' Guide to Divorce,TV-14,Drama,227,2015,63
+Schitt's Creek,TV-14,Drama,228,2016,74
+The Carmichael Show,TV-14,Drama,229,2016,69
+Chelsea,TV-MA,Drama,230,2017,0
+Abstract: The Art of Design,TV-14,Drama,231,2017,0
+Cooper Barrett's Guide to Surviving Life,TV-14,Drama,232,2016,0
+The Great British Baking Show,TV-PG,Drama,233,2016,94
+Life in Pieces,TV-14,Drama,234,2015,68
+Crazy Ex-Girlfriend,TV-14,Drama,235,2017,0
+Fried,TV-MA,Drama,236,2015,0
+The Great Gilly Hopkins,PG,Drama,237,2016,69
+The Magicians,TV-MA,Drama,238,2016,89
+One Day at a Time,TV-PG,Drama,239,2017,0
+No Tomorrow,TV-14,Drama,240,2016,0
+Hot Girls Wanted: Turned On,TV-MA,Drama,241,2017,0
+13 Reasons Why,TV-MA,Drama,242,2017,99
+Better Off Single,TV-MA,Drama,243,2016,0
+Sandy Wexler,TV-14,Drama,244,2017,92
+Chewing Gum,TV-MA,Drama,245,2017,93
+The Matchbreaker,PG,Drama,246,2016,79
+Tramps,TV-MA,Drama,247,2017,0
+Slam,TV-MA,Drama,248,2017,0
+Cheer Squad,TV-PG,Drama,249,2016,61
+Almost Adults,NR,Drama,250,2016,0
+The Waterboy,PG-13,Drama,251,1998,82
+10 Things I Hate About You,PG-13,Drama,252,1999,68
+Grease,PG,Drama,253,1978,86
+How to Lose a Guy in 10 Days,PG-13,Drama,254,2003,56
+The Benchwarmers,PG-13,Drama,255,2006,77
+Step Up,PG-13,Drama,256,2006,64
+High School Musical 2,TV-G,Drama,257,2007,58
+Twilight,PG-13,Drama,258,2008,89
+Coraline,PG,Drama,259,2009,95
+Hannah Montana: The Movie,G,Drama,260,2009,56
+The Office (U.S.),TV-14,Drama,261,2012,97
+Friday Night Lights,TV-PG,Drama,262,2010,81
+StarStruck,TV-G,Drama,263,2010,0
+Grey's Anatomy,TV-14,Drama,264,2016,98
+Prison Break,TV-14,Drama,265,2008,98
+90210,TV-14,Drama,266,2013,62
+Gossip Girl,TV-14,Drama,267,2012,96
+How I Met Your Mother,TV-PG,Drama,268,2014,94
+Glee,TV-PG,Drama,269,2015,92
+The Vampire Diaries,TV-14,Drama,270,2017,91
+Family Guy,TV-MA,Drama,271,2015,98
+Criminal Minds,TV-14,Drama,272,2016,98
+Friends,TV-14,Drama,273,2003,98
+Mean Girls 2,PG-13,Drama,274,2011,0
+The Secret Life of the American Teenager,TV-14,Drama,275,2013,81
+That '70s Show,TV-14,Drama,276,2005,89
+Gilmore Girls,TV-14,Drama,277,2006,91
+Parenthood,TV-14,Drama,278,2014,79
+Heartland,TV-PG,Drama,279,2015,85
+Pretty Little Liars,TV-14,Drama,280,2016,96
+Shameless (U.S.),TV-MA,Drama,281,2016,97
+Switched at Birth,TV-14,Drama,282,2015,83
+New Girl,TV-14,Drama,283,2016,91
+Hart of Dixie,TV-PG,Drama,284,2014,81
+Pretty Little Liars,TV-14,Drama,330,2016,96
+Shameless (U.S.),TV-MA,Drama,331,2016,97
+New Girl,TV-14,Drama,332,2016,91
+Revenge,TV-PG,Drama,333,2015,84
+Scandal,TV-14,Drama,334,2016,92
+Magic Mike,R,Drama,335,2012,77
+Trouble with the Curve,PG-13,Drama,336,2012,63
+Orange Is the New Black,TV-MA,Drama,337,2016,98
+Baby Daddy,TV-14,Drama,338,2016,80
+The Night Shift,TV-14,Drama,339,2015,93
+The Originals,TV-14,Drama,340,2016,74
+Home,PG,Drama,341,2015,94
+How to Get Away with Murder,TV-14,Drama,342,2016,95
+Zootopia,PG,Drama,343,2016,97
+Finding Dory,PG,Drama,344,2016,98
+Sausage Party,R,Drama,345,2016,91
+Skin Wars,TV-14,Drama,346,2016,69
+Girlboss,TV-MA,Drama,347,2017,94
+13 Reasons Why,TV-MA,Drama,348,2017,99
+Felipe Neto: My Life Makes No Sense,TV-MA,Drama,349,2017,0
+Cheer Squad,TV-PG,Drama,350,2016,61
+Lost,TV-14,Drama,351,2010,98
+Weeds,TV-MA,Drama,352,2012,85
+The Tudors,TV-MA,Drama,353,2010,0
+Grey's Anatomy,TV-14,Drama,354,2016,98
+Lie to Me,TV-14,Drama,355,2010,89
+Prison Break,TV-14,Drama,356,2008,98
+Gossip Girl,TV-14,Drama,357,2012,96
+Glee,TV-PG,Drama,358,2015,92
+The Vampire Diaries,TV-14,Drama,359,2017,91
+The Secret Life of the American Teenager,TV-14,Drama,360,2013,81
+Drop Dead Diva,TV-PG,Drama,361,2014,0
+Gilmore Girls,TV-14,Drama,362,2006,91
+Charmed,TV-PG,Drama,363,2005,90
+White Collar,TV-PG,Drama,364,2014,93
+House of Cards,TV-MA,Drama,365,2016,91
+Pretty Little Liars,TV-14,Drama,366,2016,96
+The Killing,TV-14,Drama,367,2014,73
+Shameless (U.S.),TV-MA,Drama,368,2016,97
+Hart of Dixie,TV-PG,Drama,369,2014,81
+Once Upon a Time,TV-PG,Drama,370,2016,98
+Scandal,TV-14,Drama,371,2016,92
+The Client List,TV-14,Drama,372,2013,92
+Unconditional,PG-13,Drama,373,2012,0
+Bates Motel,TV-14,Drama,374,2016,83
+The Blacklist,TV-14,Drama,375,2016,96
+The Fosters,TV-14,Drama,376,2016,73
+Reign,TV-14,Drama,377,2015,79
+The Originals,TV-14,Drama,378,2016,74
+The 100,NR,Drama,379,2016,97
+Witches of East End,TV-14,Drama,380,2014,0
+Bitten,TV-MA,Drama,381,2016,56
+London Has Fallen,R,Drama,382,2016,96
+Marvel's Jessica Jones,TV-MA,Drama,383,2015,83
+Bloodline,TV-MA,Drama,384,2016,0
+Grace and Frankie,TV-MA,Drama,385,2017,90
+Velvet,TV-14,Drama,386,2016,0
+How to Get Away with Murder,TV-14,Drama,387,2016,95
+The Crown,TV-MA,Drama,388,2016,84
+Jane The Virgin,TV-14,Drama,389,2016,91
+Kurt Seyit & Sura,TV-14,Drama,390,2014,0
+The Returned,TV-14,Drama,391,2015,0
+The Girl in the Book,TV-MA,Drama,392,2015,0
+Quantico,TV-14,Drama,393,2016,88
+Life in Pieces,TV-14,Drama,394,2015,68
+Ingobernable,TV-MA,Drama,395,2017,96
+Girlboss,TV-MA,Drama,396,2017,94
+13 Reasons Why,TV-MA,Drama,397,2017,99
+MerlÃ­,TV-PG,Drama,398,2015,0
+Greenleaf,TV-14,Drama,399,2016,62
+100 Metros,TV-MA,Drama,400,2016,0
+Bones,TV-14,Drama,401,2016,97
+Dexter,TV-MA,Drama,402,2013,95
+Leverage,TV-PG,Drama,403,2012,86
+Grey's Anatomy,TV-14,Drama,404,2016,98
+Lie to Me,TV-14,Drama,405,2010,89
+Prison Break,TV-14,Comedy,406,2008,98
+NCIS,TV-14,Comedy,407,2016,97
+Burn Notice,TV-14,Comedy,408,2013,85
+Breaking Bad,TV-MA,Comedy,409,2013,97
+Criminal Minds,TV-14,Comedy,410,2016,98
+White Collar,TV-PG,Comedy,411,2014,93
+Luther,TV-14,Comedy,412,2015,69
+Hawaii Five-0,TV-14,Comedy,413,2016,96
+House of Cards,TV-MA,Comedy,414,2016,91
+Last Man Standing,TV-PG,Comedy,415,2015,97
+Revenge,TV-PG,Comedy,416,2015,84
+Person of Interest,TV-14,Comedy,417,2016,93
+Scandal,TV-14,Comedy,418,2016,92
+Touch,TV-14,Comedy,419,2012,68
+Sherlock,TV-14,Comedy,420,2016,95
+Breakout Kings,TV-14,Comedy,421,2012,88
+The Client List,TV-14,Comedy,422,2013,92
+Arrow,TV-14,Comedy,423,2015,96
+The Following,TV-14,Comedy,424,2015,0
+"Drugs, Inc.",TV-14,Comedy,425,2015,0
+Longmire,TV-14,Comedy,426,2016,92
+Ripper Street,TV-MA,Comedy,427,2016,0
+The Fall,TV-MA,Comedy,428,2016,61
+Death in Paradise,TV-14,Comedy,429,2016,77
+Marvel's Agents of S.H.I.E.L.D.,TV-PG,Comedy,430,2016,89
+Crossing Lines,TV-14,Comedy,431,2015,66
+London Has Fallen,R,Comedy,432,2016,96
+Halt and Catch Fire,TV-14,Comedy,433,2016,0
+Marvel's Iron Fist,TV-MA,Comedy,434,2017,98
+The Honorable Woman,TV-MA,Comedy,435,2014,0
+Transporter: The Series,TV-MA,Comedy,436,2014,0
+Gotham,TV-14,Comedy,437,2016,85
+Better Call Saul,TV-MA,Comedy,438,2016,95
+How to Get Away with Murder,TV-14,Comedy,439,2016,95
+Narcos,TV-MA,Comedy,440,2016,94
+American Odyssey,TV-14,Comedy,441,2015,0
+Aquarius,TV-MA,Comedy,442,2015,0
+Hap and Leonard,TV-MA,Comedy,443,2016,57
+Rosewood,TV-14,Comedy,444,2015,81
+Quantico,TV-14,Comedy,445,2016,88
+Limitless,TV-14,Comedy,446,2016,84
+Travelers,TV-MA,Comedy,447,2016,86
+The Doctor Blake Mysteries,TV-MA,Comedy,448,2016,57
+I.T,NR,Comedy,449,2016,0
+Bordertown,TV-MA,Comedy,450,2016,0
+The Office (U.S.),TV-14,Comedy,451,2012,97
+Grey's Anatomy,TV-14,Comedy,452,2016,98
+Law & Order: Special Victims Unit,TV-14,Comedy,453,2015,97
+Lie to Me,TV-14,Comedy,454,2010,89
+Prison Break,TV-14,Comedy,455,2008,98
+90210,TV-14,Comedy,456,2013,62
+Gossip Girl,TV-14,Comedy,457,2012,96
+How I Met Your Mother,TV-PG,Comedy,458,2014,94
+Parks and Recreation,TV-14,Comedy,459,2015,94
+The Vampire Diaries,TV-14,Comedy,460,2017,91
+Criminal Minds,TV-14,Comedy,461,2016,98
+Friends,TV-14,Comedy,462,2003,98
+The West Wing,TV-14,Comedy,463,2005,79
+Parenthood,TV-14,Comedy,464,2014,79
+White Collar,TV-PG,Comedy,465,2014,93
+Blue Bloods,TV-14,Comedy,466,2016,95
+House of Cards,TV-MA,Comedy,467,2016,91
+Pretty Little Liars,TV-14,Comedy,468,2016,96
+The Killing,TV-14,Comedy,469,2014,73
+Shameless (U.S.),TV-MA,Comedy,470,2016,97
+New Girl,TV-14,Comedy,471,2016,91
+Revenge,TV-PG,Comedy,472,2015,84
+Person of Interest,TV-14,Comedy,473,2016,93
+Once Upon a Time,TV-PG,Comedy,474,2016,98
+Scandal,TV-14,Comedy,475,2016,92
+Forensic Files,TV-14,Comedy,476,2011,88
+Sherlock,TV-14,Comedy,477,2016,95
+The Client List,TV-14,Comedy,478,2013,92
+Orange Is the New Black,TV-MA,Comedy,479,2016,98
+Rectify,TV-14,Comedy,480,2016,0
+Black Mirror,TV-MA,Comedy,481,2016,80
+Bates Motel,TV-14,Comedy,482,2016,83
+The Fall,TV-MA,Comedy,483,2016,61
+The Blacklist,TV-14,Comedy,484,2016,96
+Being Mary Jane: The Series,TV-14,Comedy,485,2016,0
+American Crime,TV-14,Comedy,486,2016,0
+Madam Secretary,TV-14,Comedy,487,2016,70
+Sense8,TV-MA,Comedy,488,2017,81
+Scream,TV-14,Comedy,489,2016,0
+Rosewood,TV-14,Comedy,490,2015,81
+The Great British Baking Show,TV-PG,Comedy,491,2016,94
+Quantico,TV-14,Comedy,492,2016,88
+Limitless,TV-14,Comedy,493,2016,84
+American Crime Story: The People v. O.J. Simpson,TV-MA,Comedy,494,2016,79
+Santa Clarita Diet,TV-MA,Comedy,495,2017,82
+No Tomorrow,TV-14,Comedy,496,2016,0
+Girlboss,TV-MA,Comedy,497,2017,94
+13 Reasons Why,TV-MA,Comedy,498,2017,99
+The Doctor Blake Mysteries,TV-MA,Comedy,499,2016,57
+Greenleaf,TV-14,Comedy,500,2016,62
+The Nightmare Before Christmas,PG,Comedy,501,1993,84
+Scooby-Doo,PG,Comedy,502,2002,86
+Chicken Little,G,Comedy,503,2005,92
+Teenage Mutant Ninja Turtles,PG,Comedy,504,2007,0
+Star Wars: The Clone Wars,PG,Comedy,505,2008,57
+Coraline,PG,Comedy,506,2009,95
+The Smurfs and the Magic Flute,G,Comedy,507,1976,0
+We're Back! A Dinosaur's Story,G,Comedy,508,1993,0
+Thomas & Friends: Thomas & the Runaway Kite,TV-Y,Comedy,509,2010,0
+Dino Squad,TV-Y7,Comedy,510,2008,0
+Cars Toons: Mater's Tall Tales,TV-G,Comedy,511,2010,74
+LeapFrog: The Amazing Alphabet Amusement Park,TV-Y,Comedy,512,2010,0
+Star Wars: The Clone Wars,TV-PG,Comedy,513,2014,93
+Phineas and Ferb,TV-G,Comedy,514,2012,89
+The Batman,TV-Y7,Comedy,515,2007,77
+Justice League,TV-Y7-FV,Comedy,516,2003,66
+Justice League Unlimited,TV-Y7-FV,Comedy,517,2005,0
+Mighty Morphin Power Rangers,TV-Y7-FV,Comedy,518,2010,73
+Young Justice,TV-PG,Comedy,519,2012,71
+The Super Mario Bros. Super Show!,TV-Y7,Comedy,520,1989,0
+Power Rangers Zeo,TV-Y7-FV,Comedy,521,1996,0
+Oscar's Oasis,TV-G,Comedy,522,2011,0
+Transformers Prime,TV-Y7-FV,Comedy,523,2013,0
+The Adventures of Chuck & Friends,TV-Y,Comedy,524,2011,0
+Transformers: Rescue Bots,TV-Y7,Comedy,525,2016,0
+Thomas & Friends: King of the Railway,TV-G,Comedy,526,2013,0
+LEGO: Marvel Super Heroes: Maximum Overload,TV-Y7-FV,Comedy,527,2013,0
+Max Steel,TV-Y7-FV,Comedy,528,2014,0
+Transformers Prime Beast Hunters: Predacons Rising,TV-Y7-FV,Comedy,529,2013,0
+Agent F.O.X.,PG,Comedy,530,2014,0
+VeggieTales in the House,TV-Y,Comedy,531,2016,0
+Thunder and the House Of Magic,TV-G,Comedy,532,2013,0
+All Hail King Julien,TV-Y7-FV,Comedy,533,2016,71
+Kong: King of the Apes,TV-Y7-FV,Comedy,534,2016,0
+Marvel Super Hero Adventures: Frost Fight!,PG,Comedy,535,2015,0
+Slugterra: Slug Fu Showdown,TV-Y7-FV,Comedy,536,2015,0
+Dinotrux,TV-Y7-FV,Comedy,537,2017,0
+Edgar Rice Burroughs' Tarzan and Jane,TV-Y7-FV,Comedy,538,2017,0
+Lego DC Comics: Batman Be-Leaguered,TV-Y7,Comedy,539,2014,0
+Trollhunters,TV-Y7-FV,Comedy,540,2016,83
+Power Rangers Dino Charge,TV-Y7,Comedy,541,2015,0
+Bunks,TV-PG,Comedy,542,2013,0
+The Jungle Book,PG,Comedy,543,2016,97
+The Angry Birds Movie,PG,Comedy,544,2016,92
+The Secret Life of Pets,PG,Comedy,545,2016,0
+The Furchester Hotel,TV-Y,Comedy,546,2015,0
+Marvel's Hulk: Where Monsters Dwell,PG,Comedy,547,2016,0
+Angry Birds,TV-G,Comedy,548,2013,0
+Talking Tom and Friends,TV-G,Comedy,549,2016,61
+Nexo Knights,TV-Y7-FV,Comedy,550,2015,0
+The Nightmare Before Christmas,PG,Comedy,551,1993,84
+An Extremely Goofy Movie,G,Comedy,552,1999,67
+Scooby-Doo,PG,Comedy,553,2002,86
+The Iron Giant,PG,Comedy,554,1999,83
+Star Wars: The Clone Wars,PG,Comedy,555,2008,57
+Cars Toons: Mater's Tall Tales,TV-G,Comedy,556,2010,74
+The Batman,TV-Y7,Comedy,557,2007,77
+Justice League,TV-Y7-FV,Comedy,558,2003,66
+Justice League Unlimited,TV-Y7-FV,Comedy,559,2005,0
+The Cat in the Hat Knows a Lot About That!,TV-Y,Comedy,560,2014,0
+Mighty Morphin Power Rangers,TV-Y7-FV,Comedy,561,2010,73
+Bob the Builder,TV-Y,Comedy,562,2015,0
+Beyblade: Metal Fusion,TV-Y7,Comedy,563,2009,0
+Ninja Turtles: The Next Mutation,TV-Y7-FV,Comedy,564,1997,0
+Transformers Prime,TV-Y7-FV,Comedy,565,2013,0
+DreamWorks Kung Fu Panda Awesome Secrets,TV-PG,Romance,566,2008,0
+LEGO Ninjago: Masters of Spinjitzu,TV-Y7-FV,Romance,567,2015,67
+Transformers: Rescue Bots,TV-Y7,Romance,568,2016,0
+Goosebumps,TV-Y7,Romance,569,1998,88
+LEGO Ninjago: Masters of Spinjitzu: Way of the Ninja,TV-Y7-FV,Romance,570,2011,0
+Super Buddies,G,Romance,571,2013,0
+Tad: The Lost Explorer,TV-PG,Romance,572,2012,0
+PokÃ©mon: Indigo League,TV-Y,Romance,573,2000,74
+Ratchet and Clank,PG,Romance,574,2016,74
+Pac-Man and the Ghostly Adventures,TV-Y7,Romance,575,2014,0
+Iron Man & Captain America: Heroes United,PG,Romance,576,2014,0
+Power Rangers Super Megaforce,TV-Y7,Romance,577,2014,0
+Chuggington,TV-Y,Romance,578,2015,0
+All Hail King Julien,TV-Y7-FV,Romance,579,2016,71
+The Adventures of Puss in Boots,TV-Y7-FV,Romance,580,2016,78
+Kong: King of the Apes,TV-Y7-FV,Romance,581,2016,0
+Marvel Super Hero Adventures: Frost Fight!,PG,Romance,582,2015,0
+Some Assembly Required,TV-G,Romance,583,2015,0
+Dinotrux,TV-Y7-FV,Romance,584,2017,0
+Edgar Rice Burroughs' Tarzan and Jane,TV-Y7-FV,Romance,585,2017,0
+Kulipari: An Army of Frogs,TV-Y7-FV,Romance,586,2016,0
+Transformers: Robots in Disguise,TV-Y7,Romance,587,2016,0
+Robocar Poli,TV-Y,Romance,588,2012,0
+LEGO Bionicle: The Journey to One,TV-Y7-FV,Romance,589,2016,0
+Lego DC Comics: Batman Be-Leaguered,TV-Y7,Romance,590,2014,0
+Voltron: Legendary Defender,TV-Y7-FV,Romance,591,2017,0
+Trollhunters,TV-Y7-FV,Romance,592,2016,83
+Buddy Thunderstruck,TV-PG,Romance,593,2017,0
+Power Rangers Dino Charge,TV-Y7,Romance,594,2015,0
+PokÃ©mon: XY,TV-Y7-FV,Romance,595,2015,56
+Power Rangers Dino Super Charge,TV-Y7,Romance,596,2016,0
+The Deep,TV-Y7,Romance,597,2015,0
+Skylanders Academy,TV-Y7,Romance,598,2016,0
+Marvel's Hulk: Where Monsters Dwell,PG,Romance,599,2016,0
+Growing Up Wild,G,Romance,600,2016,80
+The Little Rascals,PG,Romance,601,1994,86
+Flubber,PG,Romance,602,1997,83
+Tarzan,G,Romance,603,1999,95
+The Emperor's New Groove,G,Romance,604,2000,95
+Scooby-Doo,PG,Romance,605,2002,86
+Lilo & Stitch,PG,Romance,606,2002,95
+Scooby-Doo 2: Monsters Unleashed,PG,Romance,607,2004,82
+The Three Musketeers,G,Romance,608,2004,0
+Mickey's Twice Upon a Christmas,G,Romance,609,2004,0
+The Pacifier,PG,Romance,610,2005,91
+Chicken Little,G,Romance,611,2005,92
+Teenage Mutant Ninja Turtles,PG,Romance,612,2007,0
+Bee Movie,PG,Romance,613,2007,94
+Kung Fu Panda,PG,Romance,614,2008,91
+Coraline,PG,Romance,615,2009,95
+Cars Toons: Mater's Tall Tales,TV-G,Romance,616,2010,74
+Phineas and Ferb,TV-G,Romance,617,2012,89
+Super Why!,TV-Y,Romance,618,2015,68
+Jessie,TV-G,Romance,619,2015,88
+Disney Animation Collection: Vol. 1: Mickey and the Beanstalk,TV-G,Romance,620,2009,0
+Lab Rats,TV-Y7,Romance,621,2016,85
+Masha and the Bear,TV-Y,Romance,622,2013,81
+Pocoyo,TV-Y,Romance,623,2007,67
+Home,PG,Romance,624,2015,94
+Chuggington,TV-Y,Romance,625,2015,0
+Octonauts,TV-Y,Romance,626,2015,0
+Dragons: Race to the Edge,TV-Y7-FV,Romance,627,2017,88
+Mother Goose Club,TV-Y,Romance,628,2016,0
+Little Einsteins,TV-Y,Romance,629,2007,70
+Hotel Transylvania 2,PG,Romance,630,2015,93
+Dawn of the Croods,TV-Y7,Romance,631,2017,72
+Dinotrux,TV-Y7-FV,Romance,632,2017,0
+Goosebumps,PG,Romance,633,2015,90
+Kung Fu Panda 3,PG,Romance,634,2016,92
+Zootopia,PG,Romance,635,2016,97
+The Jungle Book,PG,Romance,636,2016,97
+Home: Adventures with Tip & Oh,TV-Y7,Romance,637,2017,0
+Open Season: Scared Silly,PG,Romance,638,2015,72
+The Land Before Time XIV: Journey of the Brave,G,Romance,639,2016,0
+The Angry Birds Movie,PG,Romance,640,2016,92
+Alice Through the Looking Glass,PG,Romance,641,2016,96
+Finding Dory,PG,Romance,642,2016,98
+The Secret Life of Pets,PG,Romance,643,2016,0
+Ask the StoryBots,TV-Y,Romance,644,2016,0
+The Furchester Hotel,TV-Y,Romance,645,2015,0
+Goldie & Bear,TV-Y,Romance,646,2016,77
+Little Baby Bum: Nursery Rhyme Friends,TV-Y,Romance,647,2016,0
+Angry Birds,TV-G,Romance,648,2013,0
+Tayo the Little Bus,TV-Y,Romance,649,2014,0
+Talking Tom and Friends,TV-G,Romance,650,2016,61
+The Little Rascals,PG,Romance,651,1994,86
+Antz,PG,Romance,652,1998,80
+Tarzan,G,Romance,653,1999,95
+An Extremely Goofy Movie,G,Romance,654,1999,67
+Chicken Run,G,Romance,655,2000,80
+The Emperor's New Groove,G,Romance,656,2000,95
+Lilo & Stitch,PG,Romance,657,2002,95
+Spy Kids 3: Game Over,PG,Romance,658,2003,64
+Annie,PG,Romance,659,1982,68
+Mulan 2,G,Romance,660,2004,85
+Chicken Little,G,Romance,661,2005,92
+Lilo & Stitch 2: Stitch Has A Glitch,PG,Romance,662,2005,85
+Teenage Mutant Ninja Turtles,PG,Romance,663,2007,0
+Bee Movie,PG,Romance,664,2007,94
+Kung Fu Panda,PG,Romance,665,2008,91
+Cars Toons: Mater's Tall Tales,TV-G,Romance,666,2010,74
+Super Why!,TV-Y,Romance,667,2015,68
+DreamWorks Shrek's Swamp Stories,TV-PG,Romance,668,2008,56
+Beverly Hills Chihuahua 3: Viva La Fiesta!,G,Romance,669,2012,0
+DreamWorks Spooky Stories: Volume 2,TV-PG,Romance,670,2011,0
+The Magic School Bus,TV-Y,Romance,671,1997,81
+Goosebumps,TV-Y7,Family,672,1998,88
+Sammy 2,TV-PG,Family,673,2012,0
+Disney Animation Collection: Vol. 1: Mickey and the Beanstalk,TV-G,Family,674,2009,0
+Masha and the Bear,TV-Y,Family,675,2013,81
+Pocoyo,TV-Y,Family,676,2007,67
+Sofia the First,TV-Y,Family,677,2015,82
+Barbie Life in the Dreamhouse,TV-G,Family,678,2012,85
+Paddington,PG,Family,679,2014,70
+Larva,TV-G,Family,680,2015,0
+Sid the Science Kid,TV-Y,Family,681,2008,0
+Chuggington,TV-Y,Family,682,2015,0
+All Hail King Julien,TV-Y7-FV,Family,683,2016,71
+Octonauts,TV-Y,Family,684,2015,0
+Minions,PG,Family,685,2015,96
+Dragons: Race to the Edge,TV-Y7-FV,Family,686,2017,88
+Little Einsteins,TV-Y,Family,687,2007,70
+Hotel Transylvania 2,PG,Family,688,2015,93
+Dinotrux,TV-Y7-FV,Family,689,2017,0
+The Little Prince,PG,Family,690,2015,71
+Word Party,TV-Y,Family,691,2016,0
+Zootopia,PG,Family,692,2016,97
+The Jungle Book,PG,Family,693,2016,97
+Home: Adventures with Tip & Oh,TV-Y7,Family,694,2017,0
+Open Season: Scared Silly,PG,Family,695,2015,72
+The Angry Birds Movie,PG,Family,696,2016,92
+Finding Dory,PG,Family,697,2016,98
+The Secret Life of Pets,PG,Family,698,2016,0
+Goldie & Bear,TV-Y,Family,699,2016,77
+Talking Tom and Friends,TV-G,Family,700,2016,61
+Cool Runnings,PG,Family,701,1993,81
+Homeward Bound: The Incredible Journey,G,Family,702,1993,96
+The Little Rascals,PG,Family,703,1994,86
+Anastasia,G,Family,704,1997,93
+Tarzan,G,Family,705,1999,95
+The Emperor's New Groove,G,Family,706,2000,95
+Scooby-Doo,PG,Family,707,2002,86
+Lilo & Stitch,PG,Family,708,2002,95
+Missione Hamburger,PG,Family,709,1997,75
+Chicken Little,G,Family,710,2005,92
+Curious George,G,Family,711,2006,55
+Bee Movie,PG,Family,712,2007,94
+Kung Fu Panda,PG,Family,713,2008,91
+Coraline,PG,Family,714,2009,95
+Cars Toons: Mater's Tall Tales,TV-G,Family,715,2010,74
+Super Why!,TV-Y,Family,716,2015,68
+Jessie,TV-G,Family,717,2015,88
+Secret of the Wings,G,Family,718,2012,65
+The Magic School Bus,TV-Y,Family,719,1997,81
+Sammy 2,TV-PG,Family,720,2012,0
+Masha and the Bear,TV-Y,Family,721,2013,81
+Sofia the First,TV-Y,Family,722,2015,82
+Barbie Life in the Dreamhouse,TV-G,Family,723,2012,85
+Clifford the Big Red Dog,TV-Y,Family,724,2002,0
+Home,PG,Family,725,2015,94
+Paddington,PG,Family,726,2014,70
+Chuggington,TV-Y,Family,727,2015,0
+Octonauts,TV-Y,Family,728,2015,0
+Minions,PG,Family,729,2015,96
+Dragons: Race to the Edge,TV-Y7-FV,Family,730,2017,88
+Little Einsteins,TV-Y,Family,731,2007,70
+Hotel Transylvania 2,PG,Family,732,2015,93
+Dinotrux,TV-Y7-FV,Family,733,2017,0
+Walt Disney Animation Studios Short Films Collection,TV-G,Family,734,2015,84
+Kung Fu Panda 3,PG,Family,735,2016,92
+Bunk'd,TV-G,Family,736,2016,61
+Zootopia,PG,Family,737,2016,97
+The Jungle Book,PG,Family,738,2016,97
+Open Season: Scared Silly,PG,Family,739,2015,72
+The Land Before Time XIV: Journey of the Brave,G,Family,740,2016,0
+The Angry Birds Movie,PG,Family,741,2016,92
+Alice Through the Looking Glass,PG,Family,742,2016,96
+The BFG,PG,Family,743,2016,97
+The Secret Life of Pets,PG,Family,744,2016,0
+Pete's Dragon,PG,Family,745,2016,93
+Kubo and the Two Strings,PG,Family,746,2016,96
+Goldie & Bear,TV-Y,Family,747,2016,77
+Little Baby Bum: Nursery Rhyme Friends,TV-Y,Family,748,2016,0
+Growing Up Wild,G,Family,749,2016,80
+The Real Ghostbusters,TV-Y7,Family,750,1990,65
+Cool Runnings,PG,Family,751,1993,81
+Anastasia,G,Family,752,1997,93
+Antz,PG,Family,753,1998,80
+Babe: Pig in the City,G,Family,754,1998,0
+The Prince of Egypt,PG,Family,755,1998,81
+Paulie,PG,Family,756,1998,0
+Tarzan,G,Family,757,1999,95
+The Road to El Dorado,PG,Family,758,2000,91
+Fantasia 2000,G,Family,759,2000,0
+Pocahontas II: Journey to a New World,TV-G,Family,760,1998,64
+The Emperor's New Groove,G,Family,761,2000,95
+Fantasia,G,Family,762,1940,61
+An American Tail,G,Family,763,1986,67
+Pooh's Grand Adventure: The Search for Christopher Robin,G,Family,764,1997,0
+FernGully 2: The Magical Rescue,G,Family,765,1998,0
+Balto 2: Wolf Quest,G,Family,766,2001,0
+Balto,G,Family,767,1995,64
+Back to the Secret Garden,G,Family,768,2002,0
+The Brave Little Toaster Goes to Mars,G,Family,769,1998,0
+The Brave Little Toaster to the Rescue,G,Family,770,1997,0
+An American Tail: The Mystery of the Night Monster,G,Family,771,1999,0
+An American Tail: Fievel Goes West,G,Family,772,1991,0
+The Last Unicorn,G,Family,773,1982,0
+The Iron Giant,PG,Family,774,1999,83
+Brother Bear 2,G,Family,775,2006,57
+The Fox and the Hound 2,G,Family,776,2006,0
+The Smurfs and the Magic Flute,G,Family,777,1976,0
+Jetsons: The Movie,G,Family,778,1990,0
+We're Back! A Dinosaur's Story,G,Family,779,1993,0
+A Monster in Paris,PG,Family,780,2011,0
+The Gruffalo,TV-Y,Family,781,2009,0
+DreamWorks How to Train Your Dragon Legends,TV-PG,Family,782,2011,0
+Ernest & Celestine,PG,Family,783,2012,0
+The Magic School Bus,TV-Y,Family,784,1997,81
+Animaniacs,TV-Y7,Family,785,1997,72
+Disney Animation Collection: Vol. 4: The Tortoise and the Hare,TV-G,Family,786,2009,0
+PopPixie,TV-G,Family,787,2011,0
+Jack and the Cuckoo-Clock Heart,PG,Family,788,2013,0
+The Pirate Fairy,G,Family,789,2014,57
+Axel: The Biggest Little Hero,PG,Family,790,2013,0
+The Adventures of Figaro Pho,TV-Y7,Family,791,2015,0
+The Boxcar Children,G,Family,792,2014,0
+Pet Pals in Windland,TV-G,Family,793,2014,0
+Walt Disney Animation Studios Short Films Collection,TV-G,Family,794,2015,84
+Alpha and Omega: Dino Digs,TV-G,Family,795,2016,0
+Alice Through the Looking Glass,PG,Family,796,2016,96
+Quackerz,PG,Family,797,2016,0
+Hatched,TV-Y7,Family,798,2013,0
+Blinky Bill: The Movie,PG,Family,799,2015,0
+The Real Ghostbusters,TV-Y7,Family,800,1990,65
+Flubber,PG,Family,801,1997,83
+Anastasia,G,Family,802,1997,93
+An Extremely Goofy Movie,G,Family,803,1999,67
+An American Tail,G,Family,804,1986,67
+Scooby-Doo,PG,Family,805,2002,86
+FernGully: The Last Rainforest,G,kids,806,1992,70
+Balto 2: Wolf Quest,G,kids,807,2001,0
+Balto,G,kids,808,1995,64
+The Lizzie McGuire Movie,PG,kids,809,2003,0
+The Brave Little Toaster Goes to Mars,G,kids,810,1998,0
+The Brave Little Toaster to the Rescue,G,kids,811,1997,0
+Recess: Taking the Fifth Grade,G,kids,812,2003,0
+An American Tail: The Mystery of the Night Monster,G,kids,813,1999,0
+An American Tail: Fievel Goes West,G,kids,814,1991,0
+The Iron Giant,PG,kids,815,1999,83
+The Very Hungry Caterpillar and Other Stories,TV-Y,kids,816,1993,0
+The Hero of Color City,G,kids,817,2014,0
+Dino Squad,TV-Y7,kids,818,2008,0
+The Little Engine That Could,G,kids,819,2011,0
+Delhi Safari,PG,kids,820,2012,0
+Ninja Turtles: The Next Mutation,TV-Y7-FV,kids,821,1997,0
+Pound Puppies,TV-Y,kids,822,2013,0
+Sammy 2,TV-PG,kids,823,2012,0
+Monster Math Squad,TV-G,kids,824,2012,0
+Care Bears: Welcome to Care-a-Lot,TV-Y,kids,825,2012,0
+Clifford the Big Red Dog,TV-Y,kids,826,2002,0
+Clifford's Puppy Days,TV-Y,kids,827,2003,0
+Axel: The Biggest Little Hero,PG,kids,828,2013,0
+Agent F.O.X.,PG,kids,829,2014,0
+Dinosaur King,TV-Y7-FV,kids,830,2008,0
+Ribbit,PG,kids,831,2014,0
+Chuggington,TV-Y,kids,832,2015,0
+Rooster Doodle-doo,TV-G,kids,833,2014,0
+Octonauts,TV-Y,kids,834,2015,0
+Kong: King of the Apes,TV-Y7-FV,kids,835,2016,0
+My Animal Friends,TV-Y,kids,836,2013,0
+Worms,PG,kids,837,2013,0
+Puffin Rock,TV-Y,kids,838,2016,0
+Little Einsteins,TV-Y,kids,839,2007,70
+Hotel Transylvania 2,PG,kids,840,2015,93
+Dinotrux,TV-Y7-FV,kids,841,2017,0
+The Mr. Peabody and Sherman Show,TV-Y7,kids,842,2017,0
+Zoobabu,TV-Y,kids,843,2010,0
+Alpha and Omega: Dino Digs,TV-G,kids,844,2016,0
+Gon,TV-G,kids,845,2013,0
+Sid the Science Kid: The Movie,TV-Y,kids,846,2012,0
+The Land Before Time XIV: Journey of the Brave,G,kids,847,2016,0
+The Secret Life of Pets,PG,kids,848,2016,0
+LEGO Jurassic World: The Indominus Escape,TV-Y7,kids,849,2016,0
+The Real Ghostbusters,TV-Y7,kids,850,1990,65
+Cool Runnings,PG,kids,851,1993,81
+Anastasia,G,kids,852,1997,93
+Antz,PG,kids,853,1998,80
+Babe: Pig in the City,G,kids,854,1998,0
+The Prince of Egypt,PG,kids,855,1998,81
+Paulie,PG,kids,856,1998,0
+Tarzan,G,kids,857,1999,95
+The Road to El Dorado,PG,kids,858,2000,91
+Fantasia 2000,G,kids,859,2000,0
+Pocahontas II: Journey to a New World,TV-G,kids,860,1998,64
+The Emperor's New Groove,G,kids,861,2000,95
+Fantasia,G,kids,862,1940,61
+An American Tail,G,kids,863,1986,67
+Pooh's Grand Adventure: The Search for Christopher Robin,G,kids,864,1997,0
+FernGully 2: The Magical Rescue,G,kids,865,1998,0
+Balto 2: Wolf Quest,G,kids,866,2001,0
+Balto,G,kids,867,1995,64
+Back to the Secret Garden,G,kids,868,2002,0
+The Brave Little Toaster Goes to Mars,G,kids,869,1998,0
+The Brave Little Toaster to the Rescue,G,kids,870,1997,0
+An American Tail: The Mystery of the Night Monster,G,kids,871,1999,0
+An American Tail: Fievel Goes West,G,kids,872,1991,0
+The Last Unicorn,G,kids,873,1982,0
+The Iron Giant,PG,kids,874,1999,83
+Brother Bear 2,G,kids,875,2006,57
+The Fox and the Hound 2,G,kids,876,2006,0
+The Smurfs and the Magic Flute,G,kids,877,1976,0
+Jetsons: The Movie,G,kids,878,1990,0
+We're Back! A Dinosaur's Story,G,kids,879,1993,0
+A Monster in Paris,PG,kids,880,2011,0
+The Gruffalo,TV-Y,kids,881,2009,0
+DreamWorks How to Train Your Dragon Legends,TV-PG,kids,882,2011,0
+Ernest & Celestine,PG,kids,883,2012,0
+The Magic School Bus,TV-Y,kids,884,1997,81
+Animaniacs,TV-Y7,kids,885,1997,72
+Disney Animation Collection: Vol. 4: The Tortoise and the Hare,TV-G,kids,886,2009,0
+PopPixie,TV-G,kids,887,2011,0
+Jack and the Cuckoo-Clock Heart,PG,kids,888,2013,0
+The Pirate Fairy,G,kids,889,2014,57
+Axel: The Biggest Little Hero,PG,kids,890,2013,0
+The Adventures of Figaro Pho,TV-Y7,kids,891,2015,0
+The Boxcar Children,G,kids,892,2014,0
+Pet Pals in Windland,TV-G,kids,893,2014,0
+Walt Disney Animation Studios Short Films Collection,TV-G,kids,894,2015,84
+Alpha and Omega: Dino Digs,TV-G,kids,895,2016,0
+Alice Through the Looking Glass,PG,kids,896,2016,96
+Quackerz,PG,kids,897,2016,0
+Hatched,TV-Y7,kids,898,2013,0
+Blinky Bill: The Movie,PG,kids,899,2015,0
+The Real Ghostbusters,TV-Y7,kids,900,1990,65
+Cool Runnings,PG,kids,901,1993,81
+Homeward Bound: The Incredible Journey,G,kids,902,1993,96
+Anastasia,G,kids,903,1997,93
+Antz,PG,kids,904,1998,80
+Babe: Pig in the City,G,kids,905,1998,0
+The Road to El Dorado,PG,kids,906,2000,91
+Fantasia 2000,G,kids,907,2000,0
+Fantasia,G,kids,908,1940,61
+Harry and the Hendersons,PG,kids,909,1987,58
+Pooh's Grand Adventure: The Search for Christopher Robin,G,kids,910,1997,0
+Cats & Dogs,PG,kids,911,2001,0
+Atlantis: The Lost Empire,PG,kids,912,2001,96
+FernGully: The Last Rainforest,G,kids,913,1992,70
+Balto 2: Wolf Quest,G,kids,914,2001,0
+Balto,G,kids,915,1995,64
+Back to the Secret Garden,G,kids,916,2002,0
+Tarzan & Jane,G,kids,917,2002,0
+Atlantis: Milo's Return,G,kids,918,2003,79
+The Brave Little Toaster Goes to Mars,G,kids,919,1998,0
+The Brave Little Toaster to the Rescue,G,kids,920,1997,0
+Annie,PG,kids,921,1982,68
+Recess: Taking the Fifth Grade,G,kids,922,2003,0
+An American Tail: The Mystery of the Night Monster,G,kids,923,1999,0
+Batched,G,kids,924,2000,0
+An American Tail: Fievel Goes West,G,kids,925,1991,0
+Winnie the Pooh: Springtime with Roo,G,kids,926,2004,0
+The Last Unicorn,G,kids,927,1982,0
+The Iron Giant,PG,kids,928,1999,83
+Mulan 2,G,kids,929,2004,85
+Pooh's Heffalump Movie,G,kids,930,2005,0
+Kronk's New Groove,G,kids,931,2005,0
+Corpse Bride,PG,kids,932,2005,91
+Brother Bear 2,G,kids,933,2006,57
+The Smurfs and the Magic Flute,G,kids,934,1976,0
+Jetsons: The Movie,G,kids,935,1990,0
+We're Back! A Dinosaur's Story,G,kids,936,1993,0
+Ernest & Celestine,PG,kids,937,2012,0
+Animaniacs,TV-Y7,kids,938,1997,72
+Disney Animation Collection: Vol. 1: Mickey and the Beanstalk,TV-G,kids,939,2009,0
+Disney Animation Collection: Vol. 2: Three Little Pigs,TV-G,kids,940,2009,0
+Disney Animation Collection: Vol. 4: The Tortoise and the Hare,TV-G,kids,941,2009,0
+The Pirate Fairy,G,kids,942,2014,57
+Underdogs,PG,kids,943,2013,0
+The Boxcar Children,G,kids,944,2014,0
+Ribbit,PG,kids,945,2014,0
+Yellowbird,PG,kids,946,2014,0
+Octonauts,TV-Y,kids,947,2015,0
+The Land Before Time XIV: Journey of the Brave,G,kids,948,2016,0
+Quackerz,PG,kids,949,2016,0
+Growing Up Wild,G,kids,950,2016,80
+Cool Runnings,PG,kids,951,1993,81
+Mr. Magoo,PG,kids,952,1997,0
+Flubber,PG,kids,953,1997,83
+Anastasia,G,kids,954,1997,93
+Antz,PG,kids,955,1998,80
+Babe: Pig in the City,G,kids,956,1998,0
+Paulie,PG,kids,957,1998,0
+The Road to El Dorado,PG,kids,958,2000,91
+Air Bud: World Pup,G,kids,959,2000,0
+An American Tail,G,kids,960,1986,67
+Harry and the Hendersons,PG,kids,961,1987,58
+Cats & Dogs,PG,kids,962,2001,0
+Baby's Day Out,PG,kids,963,1994,71
+Balto 2: Wolf Quest,G,kids,964,2001,0
+Balto,G,kids,965,1995,64
+Back to the Secret Garden,G,kids,966,2002,0
+Blank Check,PG,kids,967,1994,93
+Heavyweights,PG,kids,968,1995,74
+Inspector Gadget 2,G,kids,969,2003,0
+Air Bud: Spikes Back,G,kids,970,2003,0
+Annie,PG,kids,971,1982,68
+An American Tail: Fievel Goes West,G,kids,972,1991,0
+D2: The Mighty Ducks,PG,kids,973,1994,70
+"Honey, I Shrunk the Kids",PG,kids,974,1989,80
+The Iron Giant,PG,kids,975,1999,83
+The Fox and the Hound 2,G,kids,976,2006,0
+Air Buddies,PG,kids,977,2006,0
+Dr. Dolittle: Tail to the Chief,PG,kids,978,2008,0
+Flicka 2,PG,kids,979,2010,0
+H2O: Just Add Water,TV-PG,kids,980,2009,74
+The Gruffalo,TV-Y,kids,981,2009,0
+Dolphin Tale,PG,kids,982,2011,0
+Pound Puppies,TV-Y,kids,983,2013,0
+Beverly Hills Chihuahua 3: Viva La Fiesta!,G,kids,984,2012,0
+The Magic School Bus,TV-Y,kids,985,1997,81
+Step Dogs,TV-PG,kids,986,2013,0
+PokÃ©mon: Indigo League,TV-Y,kids,987,2000,74
+Mia and Me,TV-Y,Action,988,2015,0
+Paddington,PG,Action,989,2014,70
+Russell Madness,PG,Action,990,2015,0
+My Animal Friends,TV-Y,Action,991,2013,0
+Dawn of the Croods,TV-Y7,Action,992,2017,72
+Alpha and Omega: Dino Digs,TV-G,Action,993,2016,0
+Wiener Dog Internationals,G,Action,994,2015,0
+Pup Star,G,Action,995,2016,0
+The BFG,PG,Action,996,2016,97
+The Secret Life of Pets,PG,Action,997,2016,0
+Precious Puppies,TV-G,Action,998,2003,0
+Beary Tales,TV-G,Action,999,2013,0
+Growing Up Wild,G,Action,1000,2016,80
