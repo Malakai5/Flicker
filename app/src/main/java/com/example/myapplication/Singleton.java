@@ -15,9 +15,9 @@ public class Singleton { // Used to read CSV file on initiation and never need t
     List<Record> likedTitles;
     List<Record> dislikedTitles;
 
-    public Singleton() throws IOException {
+    private Singleton() throws IOException {
         this.profileList = readProfileCSV();
-        this.originalRecordList = readCSV("Netflix(Original!!).csv");
+        this.originalRecordList = readCSV("netflix_database");
         this.profile = new Profile();
         this.undecidedTitles = profile.undecidedTitles;
         this.likedTitles = profile.likedTitles;
@@ -28,17 +28,11 @@ public class Singleton { // Used to read CSV file on initiation and never need t
     public void headerWriter(String filename) throws IOException {
         String headers;
         headers = "TitleName,YearMade,Genre,TvRating,TitleId,Score \n";
-        BufferedWriter bw = null;
-        try {
-           bw = new BufferedWriter(new FileWriter(filename));
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(filename))) {
             bw.write(headers);
 
         } catch (IOException e) {
             e.printStackTrace();
-        }finally {
-            if (bw != null) {
-                bw.close();
-            }
         }
 
     }
@@ -61,14 +55,13 @@ public class Singleton { // Used to read CSV file on initiation and never need t
     public List<Record> readCSV(String fileName) throws IOException {
         String[] data;
         List<Record> recordList = new ArrayList<>();
-        BufferedReader br = null;
-        
 
-        try {
-            br =  new BufferedReader(new FileReader(fileName)); //Reads the initial file
+
+        try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
+            //Reads the initial file
 
             String line;
-            while((line = br.readLine()) != null) {
+            while ((line = br.readLine()) != null) {
                 data = line.split(COMMA_REGEX_DELIMITER);//Will split the lines into pieces
 
                 String titleName = data[0];
@@ -78,7 +71,7 @@ public class Singleton { // Used to read CSV file on initiation and never need t
                 String yearMade = data[4];
                 String score = data[5];
 
-                Record currentRecords = new Record(titleName,tvRating,genre,titleId,yearMade,score);
+                Record currentRecords = new Record(titleName, tvRating, genre, titleId, yearMade, score);
                 recordList.add(currentRecords);
 
             }
@@ -89,10 +82,6 @@ public class Singleton { // Used to read CSV file on initiation and never need t
             makeEmptyCSVs();
             profile.setUndecidedTitles(originalRecordList);
 
-        } finally {
-            if (br != null){
-                    br.close();
-            }
         }
         return recordList;
     }
@@ -154,33 +143,41 @@ public class Singleton { // Used to read CSV file on initiation and never need t
         return profileList;
     }
 
-    public Profile addToProfileCSV() throws IOException {//Adds new Profile to profileCSV.csv
+    public boolean addToProfileCSV() throws IOException {//Adds new Profile to profileCSV.csv
         System.out.println("Please enter your UserName\n");
-        String file = "ProfileCSV.csv";
+        String file = "profile_list";
         Profile newProfile = new Profile();
         Profile tempProfile = new Profile();
 
         newProfile = newProfile.makeNewProfile(profileList);
         System.out.println("Profile has been Created!\n");
+        boolean notBlank = !newProfile.userName.isEmpty();
+            if (notBlank){
+            profileList.add(newProfile);
+            profile.setUserName(newProfile.userName);
+            Collections.shuffle(originalRecordList);
+            createUndecidedCsv(newProfile.userName.toLowerCase(), originalRecordList);//Creates the undecided list for new Profiles.
+            createLikedCsv(newProfile.userName.toLowerCase(), likedTitles);
+            createDislikedCsv(newProfile.userName.toLowerCase(), dislikedTitles);
 
-        createUndecidedCsv(newProfile.userName.toLowerCase(), originalRecordList);//Creates the undecided list for new Profiles.
-        createLikedCsv(newProfile.userName.toLowerCase(),likedTitles);
-        createDislikedCsv(newProfile.userName.toLowerCase(),dislikedTitles);
+            try (BufferedWriter br = new BufferedWriter(new FileWriter(file))) {
 
-        try (BufferedWriter br = new BufferedWriter(new FileWriter(file))){
+                String headers;
+                headers = "UserName,UserID\n";
 
-            String headers;
-            headers = "UserName,UserID\n";
+                br.write(headers);
 
-            br.write(headers);
-
-            for (int i = 0;i < profileList.size();i++) {
-                if (i != 0) {
-                    br.write(String.valueOf(tempProfile.toCSV(profileList, i)));
+                for (int i = 0; i < profileList.size(); i++) {
+                    if (i != 0) {
+                        br.write(String.valueOf(tempProfile.toCSV(profileList, i)));
+                    }
                 }
             }
         }
-        return newProfile;
+            else{
+                System.out.println("Please enter a valid Username!!\n");
+            }
+        return notBlank;
     }
 
     private void createUndecidedCsv(String userName, List<Record> recordList){
@@ -201,10 +198,13 @@ public class Singleton { // Used to read CSV file on initiation and never need t
 
     public boolean checkExistingProfile(String inputName){
         boolean results = false;
-        for (Profile value : profileList) {
-            if (value.userName.contains(inputName)) {
-                results = true;
-                break;
+        if (!inputName.equals("")) {
+            for (Profile value : profileList) {
+                if (value.userName.contains(inputName)) {
+                    results = true;
+                    System.out.println("Profile found!!\n");
+                    break;
+                }
             }
         }
         return results;

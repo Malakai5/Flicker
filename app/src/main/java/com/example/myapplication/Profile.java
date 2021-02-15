@@ -10,7 +10,7 @@ class Profile {
     String userName;
     List<Record> likedTitles = new ArrayList<>();
     List<Record> dislikedTitles = new ArrayList<>();
-    List<Record> undecidedTitles =new ArrayList<>();
+    List<Record> undecidedTitles = new ArrayList<>();
     String userID;
     int selectID;
 
@@ -22,10 +22,6 @@ class Profile {
     public Profile() {
     }
 
-    public Profile(String userName){
-        this.userName = userName;
-    }
-
 
     public Profile makeNewProfile(List<Profile> profileList) {// Method used to create new Profile for Singleton writeProfileCSV
 
@@ -35,7 +31,6 @@ class Profile {
         String userID = Integer.toString(selectID);
 
         Profile newProfile = new Profile(userName, userID);
-        profileList.add(newProfile);
 
         return newProfile;
     }
